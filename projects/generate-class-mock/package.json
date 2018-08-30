@@ -1,0 +1,8 @@
+{
+  "name": "generate-class-mock",
+  "license": "MIT",
+  "version": "1.0.1",
+  "peerDependencies": {
+    "lodash": "^4.17.10"
+  }
+}
