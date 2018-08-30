@@ -1,8 +1,13 @@
 {
   "name": "generate-class-mock",
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "peerDependencies": {
     "lodash": "^4.17.10"
+  },
+  "author": "Robert Kubisiak <rkubisiak@pgs-soft.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rkubisiak/angular-utils/tree/master/projects/generate-class-mock"
   }
 }
